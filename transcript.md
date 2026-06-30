@@ -10,8 +10,6 @@ key, so those outputs are the expected results.
 
 ## 1. Clean notes (1, 2, 4) — baseline
 
-```
-==============================================================================
 CLEAN NOTES (1, 2, 4) — baseline pipeline
 SUMMARY:  Q2 was a strong quarter: sales rose 14% over Q1 on the back of the
 premium plan while churn fell to a year-low 3.1%. The mobile app's new offline
